@@ -1,0 +1,1 @@
+/Users/darkeung/Desktop/week5/ConferenceSessions/ConferenceSessions/obj/Debug/ConferenceSessions.csproj.CoreCompileInputs.cache
